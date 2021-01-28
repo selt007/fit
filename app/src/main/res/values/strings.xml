@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">fit</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="but_next">Далее</string>
+
+    <string name="q_goal">Какая у тебя спортивная цель?</string>
+    <string name="q_goal_disc">Это поможет нам подогнать опыт под тебя</string>
+    <string name="a_goal_1">Рельеф мышц</string>
+    <string name="a_goal_1_disc">Хочу нарастить мышечную массу</string>
+    <string name="a_goal_2">Хорошая форма</string>
+    <string name="a_goal_2_disc">Хочу улучшить спортивную подготовку</string>
+    <string name="a_goal_3">Здоровье</string>
+    <string name="a_goal_3_disc">Хочу вести здоровый образ жизни</string>
+    <string name="a_goal_4">Похудение</string>
+    <string name="a_goal_4_disc">Хочу стать стройнее</string>
+
+    <string name="q_time">Как часто ты тренируешься?</string>
+</resources>
